@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:       InchTitle Variation Titles for WooCommerce
- * Plugin URI:        https://github.com/mhkxx2/inchtitle-variation-titles-for-woocommerce
+ * Plugin URI: https://karazshop.ae/
  * Description:       Dynamically inject selected screen-size / attribute variations into the visible product H1 title for eligible WooCommerce categories — ideal for TVs and size-based catalogs.
  * Version:           1.0.0
  * Author:            ShopForge Labs
- * Author URI:        https://github.com/mhkxx2
+ * Author URI: https://mudassar.net/
  * Text Domain:       inchtitle-variation-titles-for-woocommerce
  * Domain Path:       /languages
  * Requires at least: 5.8

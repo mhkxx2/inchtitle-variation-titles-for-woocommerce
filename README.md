@@ -35,6 +35,12 @@ InchTitle updates the visible product title when shoppers pick a screen-size (or
 
 GPLv2 or later. See [LICENSE](LICENSE).
 
+## Links
+
+- **Live website:** https://karazshop.ae/
+- **Developer website:** https://mudassar.net/
+- **Repository:** https://github.com/mhkxx2/inchtitle-variation-titles-for-woocommerce
+
 ## Author
 
-ShopForge Labs · [GitHub @mhkxx2](https://github.com/mhkxx2)
+ShopForge Labs · [mudassar.net](https://mudassar.net/) · [GitHub @mhkxx2](https://github.com/mhkxx2)
