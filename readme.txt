@@ -46,6 +46,13 @@ InchTitle watches the selected variation attribute (default: `pa_screen_size`) a
 * Admin studio assets load only on the plugin settings screen
 * Options cleaned on uninstall
 
+
+= Links =
+
+* Live website: https://karazshop.ae/
+* Developer website: https://mudassar.net/
+* Plugin URI: https://github.com/mhkxx2/inchtitle-variation-titles-for-woocommerce
+
 == Installation ==
 
 1. Upload `inchtitle-variation-titles-for-woocommerce` to `/wp-content/plugins/`
